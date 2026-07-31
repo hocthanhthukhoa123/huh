@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://hocthanhthukhoa123.github.io/huh/sitemap.xml
